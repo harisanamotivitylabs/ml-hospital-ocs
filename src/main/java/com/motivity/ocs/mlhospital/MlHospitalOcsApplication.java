@@ -1,4 +1,4 @@
-package com.motivity.ocs.mlhospitalocs;
+package com.motivity.ocs.mlhospital;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

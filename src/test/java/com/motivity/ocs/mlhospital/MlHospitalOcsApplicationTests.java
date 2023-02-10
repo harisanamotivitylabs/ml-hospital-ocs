@@ -1,4 +1,4 @@
-package com.motivity.ocs.mlhospitalocs;
+package com.motivity.ocs.mlhospital;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
